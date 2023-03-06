@@ -1,7 +1,7 @@
 
 # Shared-Preferences
 
- 
+ <table>
   <tr>
     <td valign="top"><img src="https://user-images.githubusercontent.com/90089104/223059012-0ae0222e-19e8-4e24-b6ca-c7cef3f9c112.jpeg" height="500"></td>
     <td valign="top"><img src="https://user-images.githubusercontent.com/90089104/223058992-7ec91fb1-5c6f-4d60-aab5-cf26e56f33a6.jpeg" height="500"></td>   
