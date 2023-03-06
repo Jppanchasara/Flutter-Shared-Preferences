@@ -1,5 +1,8 @@
 
 # Shared-Preferences
+- Dependencies:
+   shared_preferences: ^2.0.18
+- [Click to install shared_preferences](https://pub.dev/packages/shared_preferences/install)
 
  <table>
   <tr>
